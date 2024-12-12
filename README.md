@@ -1,0 +1,1 @@
+Hi.. given the short time for such an intresting project i vwe done analysis using goodreads.csv and other csv for a generalized analysis which includes outlier detection and preprocessing and regression analysis and so on !!!!
